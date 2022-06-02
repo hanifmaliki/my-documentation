@@ -1,0 +1,4 @@
+nvm (only this, for help)
+nvm use 14.231.12
+nvm list
+node -v

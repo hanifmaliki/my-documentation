@@ -1,0 +1,11 @@
+Start New Project
+-----------------
+go mod init NamaProject
+
+Call Function From Another File
+-------------------------------
+1. In one folder must contain only one .go file
+2. If you want to import from other folder, do this:
+    Create new folder inside repository, example: 'test'
+    Create .go file inside the folder and type 'package test' on first line
+    Import package to main file using 'import "NamaProject/test"'
