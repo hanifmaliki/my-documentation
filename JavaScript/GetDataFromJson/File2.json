@@ -1,0 +1,1278 @@
+{
+    "success": true,
+    "data": {
+        "mappingApproval": {
+            "data": [
+                {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "companyCode": "48",
+                    "companyName": "PT Mostrans Global Digilog",
+                    "module": null,
+                    "moduleName": null,
+                    "requestor": null,
+                    "no": 0,
+                    "userPrincipalName": null,
+                    "name": null,
+                    "isNotParallel": false,
+                    "state": false,
+                    "isCompanyUser": true,
+                    "type": null
+                }
+            ],
+            "fault": {
+                "code": null,
+                "message": null,
+                "description": null
+            }
+        },
+        "mappingDocument": {
+            "data": [
+                {
+                    "id": "a590ee50-83fb-4fb5-b1a4-3a60abef4fc5",
+                    "companyCode": "48",
+                    "companyName": null,
+                    "moduleCode": "REQ-LCS",
+                    "moduleName": null,
+                    "documentType": "BUILDING LICENSE",
+                    "createdBy": "system",
+                    "createdDate": "29 Aug 2021",
+                    "updatedBy": "system",
+                    "updatedDate": "29 Aug 2021"
+                },
+                {
+                    "id": "c4d97993-665a-4aae-8c27-b4f8bb5e1520",
+                    "companyCode": "48",
+                    "companyName": null,
+                    "moduleCode": "REQ-LCS",
+                    "moduleName": null,
+                    "documentType": "BUSINESS LICENSE",
+                    "createdBy": "system",
+                    "createdDate": "29 Aug 2021",
+                    "updatedBy": "system",
+                    "updatedDate": "29 Aug 2021"
+                },
+                {
+                    "id": "de0dcddd-66ed-46a4-89ff-5d98ffc049ec",
+                    "companyCode": "48",
+                    "companyName": null,
+                    "moduleCode": "REQ-LCS",
+                    "moduleName": null,
+                    "documentType": "LAND LICENSE",
+                    "createdBy": "system",
+                    "createdDate": "29 Aug 2021",
+                    "updatedBy": "system",
+                    "updatedDate": "29 Aug 2021"
+                },
+                {
+                    "id": "cc871176-6cbc-4a88-8929-500af8640dfa",
+                    "companyCode": "48",
+                    "companyName": null,
+                    "moduleCode": "REQ-LCS",
+                    "moduleName": null,
+                    "documentType": "WORKING PERMIT",
+                    "createdBy": "mike",
+                    "createdDate": "11 Nov 2021",
+                    "updatedBy": "mike",
+                    "updatedDate": "11 Nov 2021"
+                }
+            ],
+            "fault": {
+                "code": null,
+                "message": null,
+                "description": null
+            }
+        },
+        "listCompanyUser": [
+            {
+                "id": "00000000-0000-0000-0000-000000000000",
+                "companyCode": "48",
+                "companyName": "PT Mostrans Global Digilog",
+                "module": null,
+                "moduleName": null,
+                "requestor": null,
+                "no": 0,
+                "userPrincipalName": null,
+                "name": null,
+                "isNotParallel": false,
+                "state": false,
+                "isCompanyUser": true,
+                "type": null
+            }
+        ],
+        "entity": {
+            "data": [
+                {
+                    "id": "af9a884d-56a6-4afa-8776-0f3ef8883bfd",
+                    "companyCode": "08",
+                    "companyName": "Innogene Kalbiotech, Pte.,Ltd.",
+                    "companyAlias": "IGK",
+                    "source": "HRIS",
+                    "isActive": true
+                },
+                {
+                    "id": "47ae8a48-c2ba-4c82-bc7d-c6228dfc20b1",
+                    "companyCode": "304",
+                    "companyName": "Kalbe International PTE. LTD.",
+                    "companyAlias": "KI",
+                    "source": "API",
+                    "isActive": true
+                },
+                {
+                    "id": "881ad88a-da7e-4cbd-b062-4a7ce6375add",
+                    "companyCode": "309",
+                    "companyName": "Kalbe International PTE. LTD. (Yangon Branch)",
+                    "companyAlias": "KI-MM",
+                    "source": "API",
+                    "isActive": true
+                },
+                {
+                    "id": "9d9592e6-137c-4d04-8002-8c21f390e99d",
+                    "companyCode": "313",
+                    "companyName": "Kalbe International PTE. LTD. - Cambodia Rep. Office",
+                    "companyAlias": "KI-KH",
+                    "source": "API",
+                    "isActive": true
+                },
+                {
+                    "id": "88fa0ea9-50f8-4e5b-abc1-e2bf670e7c73",
+                    "companyCode": "312",
+                    "companyName": "Kalbe International PTE. LTD. - Philippines Rep. Office",
+                    "companyAlias": "KI-PH",
+                    "source": "API",
+                    "isActive": true
+                },
+                {
+                    "id": "eecdf09c-ebcf-4bdf-b1b0-6ac0d2464a5b",
+                    "companyCode": "311",
+                    "companyName": "Kalbe International PTE. LTD. - South Africa Branch",
+                    "companyAlias": "KI-ZA",
+                    "source": "API",
+                    "isActive": true
+                },
+                {
+                    "id": "ea2ff21b-aa29-471b-a7df-8639355335de",
+                    "companyCode": "310",
+                    "companyName": "Kalbe International PTE. LTD. - Sri Lanka Liaison Office",
+                    "companyAlias": "KI-LK",
+                    "source": "API",
+                    "isActive": true
+                },
+                {
+                    "id": "6f7d05de-e08f-444f-b22f-161a836e11d0",
+                    "companyCode": "314",
+                    "companyName": "Kalbe International PTE. LTD. - Vietnam Rep. Office",
+                    "companyAlias": "KI-VN",
+                    "source": "API",
+                    "isActive": true
+                },
+                {
+                    "id": "1dcf5c10-0b58-446a-b6c2-7e38f218fe55",
+                    "companyCode": "307",
+                    "companyName": "Kalbe Lanka PVT. LTD.",
+                    "companyAlias": "KLK",
+                    "source": "API",
+                    "isActive": true
+                },
+                {
+                    "id": "8b9dc0cc-4ee2-4c70-9a30-47ac8c995c07",
+                    "companyCode": "308",
+                    "companyName": "Kalbe Malaysia SDN. BHD.",
+                    "companyAlias": "KMS",
+                    "source": "API",
+                    "isActive": true
+                },
+                {
+                    "id": "f5141d19-d766-4060-87e6-f02df3cacb3b",
+                    "companyCode": "306",
+                    "companyName": "Kalbe Myanmar CO. LTD.",
+                    "companyAlias": "KMC",
+                    "source": "API",
+                    "isActive": true
+                },
+                {
+                    "id": "9fdb5df2-f683-444e-a13c-e6aba72e3aaf",
+                    "companyCode": "305",
+                    "companyName": "Orange Kalbe Limited",
+                    "companyAlias": "OKL",
+                    "source": "API",
+                    "isActive": true
+                },
+                {
+                    "id": "2e3a42d7-e1ca-48f8-bc62-2cb84c154912",
+                    "companyCode": "41",
+                    "companyName": "PT Agroveta Husada Dharma",
+                    "companyAlias": "AHD",
+                    "source": "API",
+                    "isActive": true
+                },
+                {
+                    "id": "1c3581fb-8751-4e91-83be-b7c10d9b407b",
+                    "companyCode": "17",
+                    "companyName": "PT Bifarma Adiluhung",
+                    "companyAlias": "BA",
+                    "source": "HRIS",
+                    "isActive": true
+                },
+                {
+                    "id": "4a3de3c4-eb17-4889-941c-4ba9dee174e1",
+                    "companyCode": "02",
+                    "companyName": "PT Bintang Toedjoe",
+                    "companyAlias": "B7",
+                    "source": "HRIS",
+                    "isActive": true
+                },
+                {
+                    "id": "b0b5da94-aa30-4fea-b553-d6bcf0d42fb1",
+                    "companyCode": "37",
+                    "companyName": "PT Cakra Radha Mustika",
+                    "companyAlias": "CRM",
+                    "source": "HRIS",
+                    "isActive": true
+                },
+                {
+                    "id": "b0df5e63-7962-45cc-a2e9-3c8b33b596e2",
+                    "companyCode": "06",
+                    "companyName": "PT Dankos Farma",
+                    "companyAlias": "DF",
+                    "source": "HRIS",
+                    "isActive": true
+                },
+                {
+                    "id": "97ff5714-fb47-4910-96e5-cc7de2c7d266",
+                    "companyCode": "46",
+                    "companyName": "PT Emos Global Digital",
+                    "companyAlias": "EGD",
+                    "source": "API",
+                    "isActive": true
+                },
+                {
+                    "id": "0edcb86a-6b13-4bda-9e96-f07128919abd",
+                    "companyCode": "22",
+                    "companyName": "PT Enseval Medika Prima",
+                    "companyAlias": "EMP",
+                    "source": "HRIS",
+                    "isActive": true
+                },
+                {
+                    "id": "b036cf70-c9ec-4bcc-808b-36f5a521aa11",
+                    "companyCode": "10",
+                    "companyName": "PT Enseval Putera Megatrading, Tbk",
+                    "companyAlias": "EPM",
+                    "source": "HRIS",
+                    "isActive": true
+                },
+                {
+                    "id": "50f65f07-47d1-4721-ba30-132c8d9cc453",
+                    "companyCode": "07",
+                    "companyName": "PT Finusolprima Farma Internasional",
+                    "companyAlias": "FIMA",
+                    "source": "HRIS",
+                    "isActive": true
+                },
+                {
+                    "id": "9ec69d28-342f-49b7-8d24-93e90ec2cd4a",
+                    "companyCode": "303",
+                    "companyName": "PT Forsta Kalmedic Global",
+                    "companyAlias": "FKG",
+                    "source": "API",
+                    "isActive": true
+                },
+                {
+                    "id": "970f9480-29eb-4c96-86ec-f94d12b258de",
+                    "companyCode": "303",
+                    "companyName": "PT Forsta Kalmedic Global",
+                    "companyAlias": "FKG",
+                    "source": "API",
+                    "isActive": true
+                },
+                {
+                    "id": "7c5d32c9-a5d5-44ae-be89-f9312f990210",
+                    "companyCode": "23",
+                    "companyName": "PT Global Chemindo Megatrading",
+                    "companyAlias": "GCM",
+                    "source": "HRIS",
+                    "isActive": true
+                },
+                {
+                    "id": "b91610fa-2360-4850-9285-34bb03055840",
+                    "companyCode": "301",
+                    "companyName": "PT Global Karsa Medika",
+                    "companyAlias": "GKM",
+                    "source": "API",
+                    "isActive": true
+                },
+                {
+                    "id": "df8f9b65-9dc9-4237-8664-1c5f5cc1d2e9",
+                    "companyCode": "40",
+                    "companyName": "PT Global Onkolab Farma",
+                    "companyAlias": "GOF",
+                    "source": "HRIS",
+                    "isActive": true
+                },
+                {
+                    "id": "cc443378-e909-4de1-a511-0e453a9ecd57",
+                    "companyCode": "39",
+                    "companyName": "PT Global Vita Nutritech",
+                    "companyAlias": "GVN",
+                    "source": "HRIS",
+                    "isActive": true
+                },
+                {
+                    "id": "0f6751ad-acac-40c5-a614-612099906c80",
+                    "companyCode": "27",
+                    "companyName": "PT Hale International",
+                    "companyAlias": "HLI",
+                    "source": "HRIS",
+                    "isActive": true
+                },
+                {
+                    "id": "6aee0860-4d33-4a60-b07b-deb12634cb2b",
+                    "companyCode": "04",
+                    "companyName": "PT Hexpharm Jaya Laboratories",
+                    "companyAlias": "HJ",
+                    "source": "HRIS",
+                    "isActive": true
+                },
+                {
+                    "id": "a2fba351-aff8-4548-a73d-dc7628339420",
+                    "companyCode": "35",
+                    "companyName": "PT Innolab Sains Internasional",
+                    "companyAlias": "ISI",
+                    "source": "HRIS",
+                    "isActive": true
+                },
+                {
+                    "id": "e6c6883a-ebd4-4851-90df-82a3a6fa2750",
+                    "companyCode": "300",
+                    "companyName": "PT Kalbe Biotek Indonesia",
+                    "companyAlias": "KBI",
+                    "source": "API",
+                    "isActive": true
+                },
+                {
+                    "id": "a6998d88-d5a5-46d5-b3fb-f2662fa3698f",
+                    "companyCode": "10000",
+                    "companyName": "PT Kalbe Blackmores Nutritions",
+                    "companyAlias": "KBN",
+                    "source": "HRIS",
+                    "isActive": true
+                },
+                {
+                    "id": "22ce64cd-fb43-4ae3-89d8-91e624065694",
+                    "companyCode": "01",
+                    "companyName": "PT Kalbe Farma Tbk.",
+                    "companyAlias": "KF",
+                    "source": "HRIS",
+                    "isActive": true
+                },
+                {
+                    "id": "bfd605a1-4b0e-4939-877b-7c4610bfdf79",
+                    "companyCode": "34",
+                    "companyName": "PT Kalbe Genexine Biologics",
+                    "companyAlias": "KGBIO",
+                    "source": "HRIS",
+                    "isActive": true
+                },
+                {
+                    "id": "bfad7c67-3c71-4dc8-971b-e7b23aea7e18",
+                    "companyCode": "28",
+                    "companyName": "PT Kalbe Milko Indonesia",
+                    "companyAlias": "KAMI",
+                    "source": "HRIS",
+                    "isActive": true
+                },
+                {
+                    "id": "5a49df21-3e26-46d9-bb8f-456719d8f913",
+                    "companyCode": "19",
+                    "companyName": "PT Kalbe Morinaga Indonesia",
+                    "companyAlias": "KMI",
+                    "source": "HRIS",
+                    "isActive": true
+                },
+                {
+                    "id": "b3519f46-c7ec-43e9-8ec5-1b5540073673",
+                    "companyCode": "31",
+                    "companyName": "PT Kalbio Global Medika",
+                    "companyAlias": "KGM",
+                    "source": "HRIS",
+                    "isActive": true
+                },
+                {
+                    "id": "3edf69ca-8320-4ce2-b779-b7ad6f6294ad",
+                    "companyCode": "29",
+                    "companyName": "PT Kalgen DNA",
+                    "companyAlias": "KDNA",
+                    "source": "HRIS",
+                    "isActive": true
+                },
+                {
+                    "id": "391b1e5f-3acc-4190-8469-fa03a05115d4",
+                    "companyCode": "30",
+                    "companyName": "PT Karsa Lintas Buwana",
+                    "companyAlias": "KLB",
+                    "source": "HRIS",
+                    "isActive": true
+                },
+                {
+                    "id": "8dfb6205-4ee3-4d9b-82ef-8deda8914bc7",
+                    "companyCode": "36",
+                    "companyName": "PT Karya Hasta Dinamika",
+                    "companyAlias": "KHD",
+                    "source": "HRIS",
+                    "isActive": true
+                },
+                {
+                    "id": "0d774e9c-8e18-4173-95b6-49ca6807ccc1",
+                    "companyCode": "38",
+                    "companyName": "PT Medika Komunika Teknologi",
+                    "companyAlias": "MKT",
+                    "source": "HRIS",
+                    "isActive": true
+                },
+                {
+                    "id": "66565336-0a13-4c4e-944c-0de1b5af81e5",
+                    "companyCode": "33",
+                    "companyName": "PT Medika Renal Citraprima",
+                    "companyAlias": "MRC",
+                    "source": "HRIS",
+                    "isActive": true
+                },
+                {
+                    "id": "0d6c3610-11d7-496f-957e-27936bda3215",
+                    "companyCode": "16",
+                    "companyName": "PT Millenia Dharma Insani",
+                    "companyAlias": "MDI",
+                    "source": "HRIS",
+                    "isActive": true
+                },
+                {
+                    "id": "6accc5ef-5f5b-4da8-8c26-c088e3389028",
+                    "companyCode": "48",
+                    "companyName": "PT Mostrans Global Digilog",
+                    "companyAlias": "MGD",
+                    "source": "API",
+                    "isActive": true
+                },
+                {
+                    "id": "d1aaa5aa-a806-4eb8-ae65-d02550b4da90",
+                    "companyCode": "18",
+                    "companyName": "PT Pharma Metric Labs",
+                    "companyAlias": "PML",
+                    "source": "HRIS",
+                    "isActive": true
+                },
+                {
+                    "id": "4189a91d-9552-4523-8be9-c7c7419aae5e",
+                    "companyCode": "24",
+                    "companyName": "PT Renalmed Tiara Utama",
+                    "companyAlias": "RTU",
+                    "source": "API",
+                    "isActive": true
+                },
+                {
+                    "id": "88cef1b4-f8bb-463b-9305-5cb6617d567b",
+                    "companyCode": "05",
+                    "companyName": "PT Saka Farma Laboratories",
+                    "companyAlias": "SFL",
+                    "source": "HRIS",
+                    "isActive": true
+                },
+                {
+                    "id": "ac75dad5-8edb-46e5-b8d4-deb2bb8404ac",
+                    "companyCode": "03",
+                    "companyName": "PT Sanghiang Perkasa",
+                    "companyAlias": "SHP",
+                    "source": "HRIS",
+                    "isActive": true
+                },
+                {
+                    "id": "81a2b778-3264-499d-bc79-27d452d45a17",
+                    "companyCode": "09",
+                    "companyName": "PT Tri Sapta Jaya",
+                    "companyAlias": "TSJ",
+                    "source": "HRIS",
+                    "isActive": true
+                }
+            ],
+            "fault": {
+                "code": null,
+                "message": null,
+                "description": null
+            }
+        },
+        "country": {
+            "data": [
+                {
+                    "countryName": "Afghanistan"
+                },
+                {
+                    "countryName": "Albania"
+                },
+                {
+                    "countryName": "Algeria"
+                },
+                {
+                    "countryName": "Andorra"
+                },
+                {
+                    "countryName": "Angola"
+                },
+                {
+                    "countryName": "Antigua and Barbuda"
+                },
+                {
+                    "countryName": "Argentina"
+                },
+                {
+                    "countryName": "Armenia"
+                },
+                {
+                    "countryName": "Australia"
+                },
+                {
+                    "countryName": "Austria"
+                },
+                {
+                    "countryName": "Azerbaijan"
+                },
+                {
+                    "countryName": "Bahamas"
+                },
+                {
+                    "countryName": "Bahrain"
+                },
+                {
+                    "countryName": "Bangladesh"
+                },
+                {
+                    "countryName": "Barbados"
+                },
+                {
+                    "countryName": "Belarus"
+                },
+                {
+                    "countryName": "Belgium"
+                },
+                {
+                    "countryName": "Belize"
+                },
+                {
+                    "countryName": "Benin"
+                },
+                {
+                    "countryName": "Bhutan"
+                },
+                {
+                    "countryName": "Bolivia"
+                },
+                {
+                    "countryName": "Bosnia and Herzegovina"
+                },
+                {
+                    "countryName": "Botswana"
+                },
+                {
+                    "countryName": "Brazil"
+                },
+                {
+                    "countryName": "Brunei"
+                },
+                {
+                    "countryName": "Bulgaria"
+                },
+                {
+                    "countryName": "Burkina Faso"
+                },
+                {
+                    "countryName": "Burundi"
+                },
+                {
+                    "countryName": "Cabo Verde"
+                },
+                {
+                    "countryName": "Cambodia"
+                },
+                {
+                    "countryName": "Cameroon"
+                },
+                {
+                    "countryName": "Canada"
+                },
+                {
+                    "countryName": "Central African Republic (CAR)"
+                },
+                {
+                    "countryName": "Chad"
+                },
+                {
+                    "countryName": "Chile"
+                },
+                {
+                    "countryName": "China"
+                },
+                {
+                    "countryName": "Colombia"
+                },
+                {
+                    "countryName": "Comoros"
+                },
+                {
+                    "countryName": "Costa Rica"
+                },
+                {
+                    "countryName": "Cote d'Ivoire"
+                },
+                {
+                    "countryName": "Croatia"
+                },
+                {
+                    "countryName": "Cuba"
+                },
+                {
+                    "countryName": "Cyprus"
+                },
+                {
+                    "countryName": "Czech Republic"
+                },
+                {
+                    "countryName": "Democratic Republic of the Congo"
+                },
+                {
+                    "countryName": "Denmark"
+                },
+                {
+                    "countryName": "Djibouti"
+                },
+                {
+                    "countryName": "Dominica"
+                },
+                {
+                    "countryName": "Dominican Republic"
+                },
+                {
+                    "countryName": "Ecuador"
+                },
+                {
+                    "countryName": "Egypt"
+                },
+                {
+                    "countryName": "El Salvador"
+                },
+                {
+                    "countryName": "Equatorial Guinea"
+                },
+                {
+                    "countryName": "Eritrea"
+                },
+                {
+                    "countryName": "Estonia"
+                },
+                {
+                    "countryName": "Eswatini (formerly Swaziland)"
+                },
+                {
+                    "countryName": "Ethiopia"
+                },
+                {
+                    "countryName": "Fiji"
+                },
+                {
+                    "countryName": "Finland"
+                },
+                {
+                    "countryName": "France"
+                },
+                {
+                    "countryName": "Gabon"
+                },
+                {
+                    "countryName": "Gambia"
+                },
+                {
+                    "countryName": "Georgia"
+                },
+                {
+                    "countryName": "Germany"
+                },
+                {
+                    "countryName": "Ghana"
+                },
+                {
+                    "countryName": "Greece"
+                },
+                {
+                    "countryName": "Grenada"
+                },
+                {
+                    "countryName": "Guatemala"
+                },
+                {
+                    "countryName": "Guinea"
+                },
+                {
+                    "countryName": "Guinea-Bissau"
+                },
+                {
+                    "countryName": "Guyana"
+                },
+                {
+                    "countryName": "Haiti"
+                },
+                {
+                    "countryName": "Honduras"
+                },
+                {
+                    "countryName": "Hong Kong"
+                },
+                {
+                    "countryName": "Hungary"
+                },
+                {
+                    "countryName": "Iceland"
+                },
+                {
+                    "countryName": "India"
+                },
+                {
+                    "countryName": "Indonesia"
+                },
+                {
+                    "countryName": "Iran"
+                },
+                {
+                    "countryName": "Iraq"
+                },
+                {
+                    "countryName": "Ireland"
+                },
+                {
+                    "countryName": "Israel"
+                },
+                {
+                    "countryName": "Italy"
+                },
+                {
+                    "countryName": "Jamaica"
+                },
+                {
+                    "countryName": "Japan"
+                },
+                {
+                    "countryName": "Jordan"
+                },
+                {
+                    "countryName": "Kazakhstan"
+                },
+                {
+                    "countryName": "Kenya"
+                },
+                {
+                    "countryName": "Kiribati"
+                },
+                {
+                    "countryName": "Kosovo"
+                },
+                {
+                    "countryName": "Kuwait"
+                },
+                {
+                    "countryName": "Kyrgyzstan"
+                },
+                {
+                    "countryName": "Laos"
+                },
+                {
+                    "countryName": "Latvia"
+                },
+                {
+                    "countryName": "Lebanon"
+                },
+                {
+                    "countryName": "Lesotho"
+                },
+                {
+                    "countryName": "Liberia"
+                },
+                {
+                    "countryName": "Libya"
+                },
+                {
+                    "countryName": "Liechtenstein"
+                },
+                {
+                    "countryName": "Lithuania"
+                },
+                {
+                    "countryName": "Luxembourg"
+                },
+                {
+                    "countryName": "Macao"
+                },
+                {
+                    "countryName": "Macedonia (FYROM)"
+                },
+                {
+                    "countryName": "Madagascar"
+                },
+                {
+                    "countryName": "Malawi"
+                },
+                {
+                    "countryName": "Malaysia"
+                },
+                {
+                    "countryName": "Maldives"
+                },
+                {
+                    "countryName": "Mali"
+                },
+                {
+                    "countryName": "Malta"
+                },
+                {
+                    "countryName": "Marshall Islands"
+                },
+                {
+                    "countryName": "Mauritania"
+                },
+                {
+                    "countryName": "Mauritius"
+                },
+                {
+                    "countryName": "Mexico"
+                },
+                {
+                    "countryName": "Micronesia"
+                },
+                {
+                    "countryName": "Moldova"
+                },
+                {
+                    "countryName": "Monaco"
+                },
+                {
+                    "countryName": "Mongolia"
+                },
+                {
+                    "countryName": "Montenegro"
+                },
+                {
+                    "countryName": "Morocco"
+                },
+                {
+                    "countryName": "Mozambique"
+                },
+                {
+                    "countryName": "Myanmar (formerly Burma)"
+                },
+                {
+                    "countryName": "Namibia"
+                },
+                {
+                    "countryName": "Nauru"
+                },
+                {
+                    "countryName": "Nepal"
+                },
+                {
+                    "countryName": "Netherlands"
+                },
+                {
+                    "countryName": "New Zealand"
+                },
+                {
+                    "countryName": "Nicaragua"
+                },
+                {
+                    "countryName": "Niger"
+                },
+                {
+                    "countryName": "Nigeria"
+                },
+                {
+                    "countryName": "North Korea"
+                },
+                {
+                    "countryName": "Norway"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country"
+                },
+                {
+                    "countryName": "NUnit Country 123"
+                },
+                {
+                    "countryName": "Oman"
+                },
+                {
+                    "countryName": "Outside Of Indonesia"
+                },
+                {
+                    "countryName": "Pakistan"
+                },
+                {
+                    "countryName": "Palau"
+                },
+                {
+                    "countryName": "Palestine"
+                },
+                {
+                    "countryName": "Panama"
+                },
+                {
+                    "countryName": "Papua New Guinea"
+                },
+                {
+                    "countryName": "Paraguay"
+                },
+                {
+                    "countryName": "Peru"
+                },
+                {
+                    "countryName": "Philippines"
+                },
+                {
+                    "countryName": "Poland"
+                },
+                {
+                    "countryName": "Portugal"
+                },
+                {
+                    "countryName": "Qatar"
+                },
+                {
+                    "countryName": "Republic of the Congo"
+                },
+                {
+                    "countryName": "Romania"
+                },
+                {
+                    "countryName": "Russia"
+                },
+                {
+                    "countryName": "Rwanda"
+                },
+                {
+                    "countryName": "Saint Kitts and Nevis"
+                },
+                {
+                    "countryName": "Saint Lucia"
+                },
+                {
+                    "countryName": "Saint Vincent and the Grenadines"
+                },
+                {
+                    "countryName": "Samoa"
+                },
+                {
+                    "countryName": "San Marino"
+                },
+                {
+                    "countryName": "Sao Tome and Principe"
+                },
+                {
+                    "countryName": "Saudi Arabia"
+                },
+                {
+                    "countryName": "Senegal"
+                },
+                {
+                    "countryName": "Serbia"
+                },
+                {
+                    "countryName": "Seychelles"
+                },
+                {
+                    "countryName": "Sierra Leone"
+                },
+                {
+                    "countryName": "Singapore"
+                },
+                {
+                    "countryName": "Slovakia"
+                },
+                {
+                    "countryName": "Slovenia"
+                },
+                {
+                    "countryName": "Solomon Islands"
+                },
+                {
+                    "countryName": "Somalia"
+                },
+                {
+                    "countryName": "South Africa"
+                },
+                {
+                    "countryName": "South Korea"
+                },
+                {
+                    "countryName": "South Sudan"
+                },
+                {
+                    "countryName": "Spain"
+                },
+                {
+                    "countryName": "Sri Lanka"
+                },
+                {
+                    "countryName": "Sudan"
+                },
+                {
+                    "countryName": "Suriname"
+                },
+                {
+                    "countryName": "Swaziland (renamed to Eswatini)"
+                },
+                {
+                    "countryName": "Sweden"
+                },
+                {
+                    "countryName": "Switzerland"
+                },
+                {
+                    "countryName": "Syria"
+                },
+                {
+                    "countryName": "Taiwan"
+                },
+                {
+                    "countryName": "Tajikistan"
+                },
+                {
+                    "countryName": "Tanzania"
+                },
+                {
+                    "countryName": "Thailand"
+                },
+                {
+                    "countryName": "Timor-Leste"
+                },
+                {
+                    "countryName": "Togo"
+                },
+                {
+                    "countryName": "Tonga"
+                },
+                {
+                    "countryName": "Trinidad and Tobago"
+                },
+                {
+                    "countryName": "Tunisia"
+                },
+                {
+                    "countryName": "Turkey"
+                },
+                {
+                    "countryName": "Turkmenistan"
+                },
+                {
+                    "countryName": "Tuvalu"
+                },
+                {
+                    "countryName": "Uganda"
+                },
+                {
+                    "countryName": "Ukraine"
+                },
+                {
+                    "countryName": "United Arab Emirates (UAE)"
+                },
+                {
+                    "countryName": "United Kingdom (UK)"
+                },
+                {
+                    "countryName": "United States of America (USA)"
+                },
+                {
+                    "countryName": "Uruguay"
+                },
+                {
+                    "countryName": "Uzbekistan"
+                },
+                {
+                    "countryName": "Vanuatu"
+                },
+                {
+                    "countryName": "Vatican City (Holy See)"
+                },
+                {
+                    "countryName": "Venezuela"
+                },
+                {
+                    "countryName": "Vietnam"
+                },
+                {
+                    "countryName": "Wakanda Forever"
+                },
+                {
+                    "countryName": "Yemen"
+                },
+                {
+                    "countryName": "Zambia"
+                },
+                {
+                    "countryName": "Zimbabwe"
+                }
+            ],
+            "fault": {
+                "code": null,
+                "message": null,
+                "description": null
+            }
+        }
+    }
+}

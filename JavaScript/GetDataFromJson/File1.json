@@ -1,0 +1,2054 @@
+{
+  "success": true,
+  "data": {
+    "mappingApproval": {
+      "data": [
+        {
+          "id": "00000000-0000-0000-0000-000000000000",
+          "companyCode": "48",
+          "companyName": "PT Mostrans Global Digilog",
+          "module": null,
+          "moduleName": null,
+          "requestor": null,
+          "no": 0,
+          "userPrincipalName": null,
+          "name": null,
+          "isNotParallel": false,
+          "state": false,
+          "isCompanyUser": true,
+          "type": null
+        }
+      ],
+      "fault": {
+        "code": null,
+        "message": null,
+        "description": null
+      }
+    },
+    "mappingDocument": {
+      "data": [
+        {
+          "id": "dbaa7d86-603d-4a9f-8ee6-7d0bcfb0d241",
+          "companyCode": "48",
+          "companyName": null,
+          "moduleCode": "REQ-DS",
+          "moduleName": null,
+          "documentType": "CLAIM / LAWSUIT",
+          "createdBy": "mike",
+          "createdDate": "11 Nov 2021",
+          "updatedBy": "mike",
+          "updatedDate": "11 Nov 2021"
+        },
+        {
+          "id": "777b43e9-de8b-4ad3-b3f3-e600a6800816",
+          "companyCode": "48",
+          "companyName": null,
+          "moduleCode": "REQ-DS",
+          "moduleName": null,
+          "documentType": "SETTLEMENT",
+          "createdBy": "system",
+          "createdDate": "29 Aug 2021",
+          "updatedBy": "system",
+          "updatedDate": "29 Aug 2021"
+        },
+        {
+          "id": "a273a8af-4742-4e77-ad22-f702d73bb5eb",
+          "companyCode": "48",
+          "companyName": null,
+          "moduleCode": "REQ-DS",
+          "moduleName": null,
+          "documentType": "WARNING LETTER",
+          "createdBy": "system",
+          "createdDate": "29 Aug 2021",
+          "updatedBy": "system",
+          "updatedDate": "29 Aug 2021"
+        }
+      ],
+      "fault": {
+        "code": null,
+        "message": null,
+        "description": null
+      }
+    },
+    "listCompanyUser": [
+      {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "companyCode": "48",
+        "companyName": "PT Mostrans Global Digilog",
+        "module": null,
+        "moduleName": null,
+        "requestor": null,
+        "no": 0,
+        "userPrincipalName": null,
+        "name": null,
+        "isNotParallel": false,
+        "state": false,
+        "isCompanyUser": true,
+        "type": null
+      }
+    ],
+    "entity": {
+      "data": [
+        {
+          "id": "af9a884d-56a6-4afa-8776-0f3ef8883bfd",
+          "companyCode": "08",
+          "companyName": "Innogene Kalbiotech, Pte.,Ltd.",
+          "companyAlias": "IGK",
+          "source": "HRIS",
+          "isActive": true
+        },
+        {
+          "id": "47ae8a48-c2ba-4c82-bc7d-c6228dfc20b1",
+          "companyCode": "304",
+          "companyName": "Kalbe International PTE. LTD.",
+          "companyAlias": "KI",
+          "source": "API",
+          "isActive": true
+        },
+        {
+          "id": "881ad88a-da7e-4cbd-b062-4a7ce6375add",
+          "companyCode": "309",
+          "companyName": "Kalbe International PTE. LTD. (Yangon Branch)",
+          "companyAlias": "KI-MM",
+          "source": "API",
+          "isActive": true
+        },
+        {
+          "id": "9d9592e6-137c-4d04-8002-8c21f390e99d",
+          "companyCode": "313",
+          "companyName": "Kalbe International PTE. LTD. - Cambodia Rep. Office",
+          "companyAlias": "KI-KH",
+          "source": "API",
+          "isActive": true
+        },
+        {
+          "id": "88fa0ea9-50f8-4e5b-abc1-e2bf670e7c73",
+          "companyCode": "312",
+          "companyName": "Kalbe International PTE. LTD. - Philippines Rep. Office",
+          "companyAlias": "KI-PH",
+          "source": "API",
+          "isActive": true
+        },
+        {
+          "id": "eecdf09c-ebcf-4bdf-b1b0-6ac0d2464a5b",
+          "companyCode": "311",
+          "companyName": "Kalbe International PTE. LTD. - South Africa Branch",
+          "companyAlias": "KI-ZA",
+          "source": "API",
+          "isActive": true
+        },
+        {
+          "id": "ea2ff21b-aa29-471b-a7df-8639355335de",
+          "companyCode": "310",
+          "companyName": "Kalbe International PTE. LTD. - Sri Lanka Liaison Office",
+          "companyAlias": "KI-LK",
+          "source": "API",
+          "isActive": true
+        },
+        {
+          "id": "6f7d05de-e08f-444f-b22f-161a836e11d0",
+          "companyCode": "314",
+          "companyName": "Kalbe International PTE. LTD. - Vietnam Rep. Office",
+          "companyAlias": "KI-VN",
+          "source": "API",
+          "isActive": true
+        },
+        {
+          "id": "1dcf5c10-0b58-446a-b6c2-7e38f218fe55",
+          "companyCode": "307",
+          "companyName": "Kalbe Lanka PVT. LTD.",
+          "companyAlias": "KLK",
+          "source": "API",
+          "isActive": true
+        },
+        {
+          "id": "8b9dc0cc-4ee2-4c70-9a30-47ac8c995c07",
+          "companyCode": "308",
+          "companyName": "Kalbe Malaysia SDN. BHD.",
+          "companyAlias": "KMS",
+          "source": "API",
+          "isActive": true
+        },
+        {
+          "id": "f5141d19-d766-4060-87e6-f02df3cacb3b",
+          "companyCode": "306",
+          "companyName": "Kalbe Myanmar CO. LTD.",
+          "companyAlias": "KMC",
+          "source": "API",
+          "isActive": true
+        },
+        {
+          "id": "9fdb5df2-f683-444e-a13c-e6aba72e3aaf",
+          "companyCode": "305",
+          "companyName": "Orange Kalbe Limited",
+          "companyAlias": "OKL",
+          "source": "API",
+          "isActive": true
+        },
+        {
+          "id": "2e3a42d7-e1ca-48f8-bc62-2cb84c154912",
+          "companyCode": "41",
+          "companyName": "PT Agroveta Husada Dharma",
+          "companyAlias": "AHD",
+          "source": "API",
+          "isActive": true
+        },
+        {
+          "id": "1c3581fb-8751-4e91-83be-b7c10d9b407b",
+          "companyCode": "17",
+          "companyName": "PT Bifarma Adiluhung",
+          "companyAlias": "BA",
+          "source": "HRIS",
+          "isActive": true
+        },
+        {
+          "id": "4a3de3c4-eb17-4889-941c-4ba9dee174e1",
+          "companyCode": "02",
+          "companyName": "PT Bintang Toedjoe",
+          "companyAlias": "B7",
+          "source": "HRIS",
+          "isActive": true
+        },
+        {
+          "id": "b0b5da94-aa30-4fea-b553-d6bcf0d42fb1",
+          "companyCode": "37",
+          "companyName": "PT Cakra Radha Mustika",
+          "companyAlias": "CRM",
+          "source": "HRIS",
+          "isActive": true
+        },
+        {
+          "id": "b0df5e63-7962-45cc-a2e9-3c8b33b596e2",
+          "companyCode": "06",
+          "companyName": "PT Dankos Farma",
+          "companyAlias": "DF",
+          "source": "HRIS",
+          "isActive": true
+        },
+        {
+          "id": "97ff5714-fb47-4910-96e5-cc7de2c7d266",
+          "companyCode": "46",
+          "companyName": "PT Emos Global Digital",
+          "companyAlias": "EGD",
+          "source": "API",
+          "isActive": true
+        },
+        {
+          "id": "0edcb86a-6b13-4bda-9e96-f07128919abd",
+          "companyCode": "22",
+          "companyName": "PT Enseval Medika Prima",
+          "companyAlias": "EMP",
+          "source": "HRIS",
+          "isActive": true
+        },
+        {
+          "id": "b036cf70-c9ec-4bcc-808b-36f5a521aa11",
+          "companyCode": "10",
+          "companyName": "PT Enseval Putera Megatrading, Tbk",
+          "companyAlias": "EPM",
+          "source": "HRIS",
+          "isActive": true
+        },
+        {
+          "id": "50f65f07-47d1-4721-ba30-132c8d9cc453",
+          "companyCode": "07",
+          "companyName": "PT Finusolprima Farma Internasional",
+          "companyAlias": "FIMA",
+          "source": "HRIS",
+          "isActive": true
+        },
+        {
+          "id": "9ec69d28-342f-49b7-8d24-93e90ec2cd4a",
+          "companyCode": "303",
+          "companyName": "PT Forsta Kalmedic Global",
+          "companyAlias": "FKG",
+          "source": "API",
+          "isActive": true
+        },
+        {
+          "id": "970f9480-29eb-4c96-86ec-f94d12b258de",
+          "companyCode": "303",
+          "companyName": "PT Forsta Kalmedic Global",
+          "companyAlias": "FKG",
+          "source": "API",
+          "isActive": true
+        },
+        {
+          "id": "7c5d32c9-a5d5-44ae-be89-f9312f990210",
+          "companyCode": "23",
+          "companyName": "PT Global Chemindo Megatrading",
+          "companyAlias": "GCM",
+          "source": "HRIS",
+          "isActive": true
+        },
+        {
+          "id": "b91610fa-2360-4850-9285-34bb03055840",
+          "companyCode": "301",
+          "companyName": "PT Global Karsa Medika",
+          "companyAlias": "GKM",
+          "source": "API",
+          "isActive": true
+        },
+        {
+          "id": "df8f9b65-9dc9-4237-8664-1c5f5cc1d2e9",
+          "companyCode": "40",
+          "companyName": "PT Global Onkolab Farma",
+          "companyAlias": "GOF",
+          "source": "HRIS",
+          "isActive": true
+        },
+        {
+          "id": "cc443378-e909-4de1-a511-0e453a9ecd57",
+          "companyCode": "39",
+          "companyName": "PT Global Vita Nutritech",
+          "companyAlias": "GVN",
+          "source": "HRIS",
+          "isActive": true
+        },
+        {
+          "id": "0f6751ad-acac-40c5-a614-612099906c80",
+          "companyCode": "27",
+          "companyName": "PT Hale International",
+          "companyAlias": "HLI",
+          "source": "HRIS",
+          "isActive": true
+        },
+        {
+          "id": "6aee0860-4d33-4a60-b07b-deb12634cb2b",
+          "companyCode": "04",
+          "companyName": "PT Hexpharm Jaya Laboratories",
+          "companyAlias": "HJ",
+          "source": "HRIS",
+          "isActive": true
+        },
+        {
+          "id": "a2fba351-aff8-4548-a73d-dc7628339420",
+          "companyCode": "35",
+          "companyName": "PT Innolab Sains Internasional",
+          "companyAlias": "ISI",
+          "source": "HRIS",
+          "isActive": true
+        },
+        {
+          "id": "e6c6883a-ebd4-4851-90df-82a3a6fa2750",
+          "companyCode": "300",
+          "companyName": "PT Kalbe Biotek Indonesia",
+          "companyAlias": "KBI",
+          "source": "API",
+          "isActive": true
+        },
+        {
+          "id": "a6998d88-d5a5-46d5-b3fb-f2662fa3698f",
+          "companyCode": "10000",
+          "companyName": "PT Kalbe Blackmores Nutritions",
+          "companyAlias": "KBN",
+          "source": "HRIS",
+          "isActive": true
+        },
+        {
+          "id": "22ce64cd-fb43-4ae3-89d8-91e624065694",
+          "companyCode": "01",
+          "companyName": "PT Kalbe Farma Tbk.",
+          "companyAlias": "KF",
+          "source": "HRIS",
+          "isActive": true
+        },
+        {
+          "id": "bfd605a1-4b0e-4939-877b-7c4610bfdf79",
+          "companyCode": "34",
+          "companyName": "PT Kalbe Genexine Biologics",
+          "companyAlias": "KGBIO",
+          "source": "HRIS",
+          "isActive": true
+        },
+        {
+          "id": "bfad7c67-3c71-4dc8-971b-e7b23aea7e18",
+          "companyCode": "28",
+          "companyName": "PT Kalbe Milko Indonesia",
+          "companyAlias": "KAMI",
+          "source": "HRIS",
+          "isActive": true
+        },
+        {
+          "id": "5a49df21-3e26-46d9-bb8f-456719d8f913",
+          "companyCode": "19",
+          "companyName": "PT Kalbe Morinaga Indonesia",
+          "companyAlias": "KMI",
+          "source": "HRIS",
+          "isActive": true
+        },
+        {
+          "id": "b3519f46-c7ec-43e9-8ec5-1b5540073673",
+          "companyCode": "31",
+          "companyName": "PT Kalbio Global Medika",
+          "companyAlias": "KGM",
+          "source": "HRIS",
+          "isActive": true
+        },
+        {
+          "id": "3edf69ca-8320-4ce2-b779-b7ad6f6294ad",
+          "companyCode": "29",
+          "companyName": "PT Kalgen DNA",
+          "companyAlias": "KDNA",
+          "source": "HRIS",
+          "isActive": true
+        },
+        {
+          "id": "391b1e5f-3acc-4190-8469-fa03a05115d4",
+          "companyCode": "30",
+          "companyName": "PT Karsa Lintas Buwana",
+          "companyAlias": "KLB",
+          "source": "HRIS",
+          "isActive": true
+        },
+        {
+          "id": "8dfb6205-4ee3-4d9b-82ef-8deda8914bc7",
+          "companyCode": "36",
+          "companyName": "PT Karya Hasta Dinamika",
+          "companyAlias": "KHD",
+          "source": "HRIS",
+          "isActive": true
+        },
+        {
+          "id": "0d774e9c-8e18-4173-95b6-49ca6807ccc1",
+          "companyCode": "38",
+          "companyName": "PT Medika Komunika Teknologi",
+          "companyAlias": "MKT",
+          "source": "HRIS",
+          "isActive": true
+        },
+        {
+          "id": "66565336-0a13-4c4e-944c-0de1b5af81e5",
+          "companyCode": "33",
+          "companyName": "PT Medika Renal Citraprima",
+          "companyAlias": "MRC",
+          "source": "HRIS",
+          "isActive": true
+        },
+        {
+          "id": "0d6c3610-11d7-496f-957e-27936bda3215",
+          "companyCode": "16",
+          "companyName": "PT Millenia Dharma Insani",
+          "companyAlias": "MDI",
+          "source": "HRIS",
+          "isActive": true
+        },
+        {
+          "id": "6accc5ef-5f5b-4da8-8c26-c088e3389028",
+          "companyCode": "48",
+          "companyName": "PT Mostrans Global Digilog",
+          "companyAlias": "MGD",
+          "source": "API",
+          "isActive": true
+        },
+        {
+          "id": "d1aaa5aa-a806-4eb8-ae65-d02550b4da90",
+          "companyCode": "18",
+          "companyName": "PT Pharma Metric Labs",
+          "companyAlias": "PML",
+          "source": "HRIS",
+          "isActive": true
+        },
+        {
+          "id": "4189a91d-9552-4523-8be9-c7c7419aae5e",
+          "companyCode": "24",
+          "companyName": "PT Renalmed Tiara Utama",
+          "companyAlias": "RTU",
+          "source": "API",
+          "isActive": true
+        },
+        {
+          "id": "88cef1b4-f8bb-463b-9305-5cb6617d567b",
+          "companyCode": "05",
+          "companyName": "PT Saka Farma Laboratories",
+          "companyAlias": "SFL",
+          "source": "HRIS",
+          "isActive": true
+        },
+        {
+          "id": "ac75dad5-8edb-46e5-b8d4-deb2bb8404ac",
+          "companyCode": "03",
+          "companyName": "PT Sanghiang Perkasa",
+          "companyAlias": "SHP",
+          "source": "HRIS",
+          "isActive": true
+        },
+        {
+          "id": "81a2b778-3264-499d-bc79-27d452d45a17",
+          "companyCode": "09",
+          "companyName": "PT Tri Sapta Jaya",
+          "companyAlias": "TSJ",
+          "source": "HRIS",
+          "isActive": true
+        }
+      ],
+      "fault": {
+        "code": null,
+        "message": null,
+        "description": null
+      }
+    },
+    "listAllCurrency": [
+      {
+        "id": "e942725a-b50e-4bf5-aeb6-13d03408d354",
+        "code": "AED",
+        "description": "United Arab Emirates dirham",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "534a4903-083d-422c-8f94-b939a6ed15e0",
+        "code": "AFN",
+        "description": "Afghan afghani",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "a31a57a1-3006-4668-bcfe-0c8dc8642931",
+        "code": "ALL",
+        "description": "Albanian lek",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "6dd64bcb-97a6-471d-81e0-770cac104859",
+        "code": "AMD",
+        "description": "Armenian dram",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "1d0dc932-4709-4a5b-b4ef-597ad088fc2d",
+        "code": "ANG",
+        "description": "Netherlands Antillean guilder",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "062f51d7-b83b-420c-95e6-b418aa2437b5",
+        "code": "AOA",
+        "description": "Angolan kwanza",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "1e6df3eb-9b2d-4e65-a6df-6653a2724384",
+        "code": "ARS",
+        "description": "Argentine peso",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "f6183354-8d43-4efa-9799-f902ad431021",
+        "code": "AUD",
+        "description": "Australian dollar",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "9238bf33-1853-4f7a-8af7-02f38898eded",
+        "code": "AWG",
+        "description": "Aruban florin",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "c4cd0363-94b6-4380-b038-48776509a50d",
+        "code": "AZN",
+        "description": "Azerbaijani manat",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "0e7c5e2c-4d93-4c3e-99d2-9458ba3843b8",
+        "code": "BAM",
+        "description": "Bosnia and Herzegovina convertible mark",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "f464b3d4-4a3f-4458-a690-51090c96ad42",
+        "code": "BBD",
+        "description": "Barbados dollar",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "5755d670-2c05-4acb-a14d-4ee243be8ae9",
+        "code": "BDT",
+        "description": "Bangladeshi taka",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "33f8bb81-04c9-463a-8a1f-a07293b1714d",
+        "code": "BGN",
+        "description": "Bulgarian lev",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "6d362127-84a4-4cc7-90e0-0d4908f54538",
+        "code": "BHD",
+        "description": "Bahraini dinar",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "db7d6c69-c309-4fc2-9d35-d0ba8cff9dcf",
+        "code": "BIF",
+        "description": "Burundian franc",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "02303420-aa22-41e3-a098-2357ea317384",
+        "code": "BMD",
+        "description": "Bermudian dollar",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "dbe8e42c-502e-4900-b639-72f26c6281fa",
+        "code": "BND",
+        "description": "Brunei dollar",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "9d3a539b-095a-47b1-a15d-bfac75ec165a",
+        "code": "BOB",
+        "description": "Boliviano",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "63d6b867-e0a5-40fe-8a5b-f457816167da",
+        "code": "BRL",
+        "description": "Brazilian real",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "7cb6d87c-b9ee-48a7-9471-950a2716ca95",
+        "code": "BSD",
+        "description": "Bahamian dollar",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "c49d8613-3943-4fa2-806f-03d190d663f6",
+        "code": "BTN",
+        "description": "Bhutanese ngultrum",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "9249ac3f-0815-4141-b51d-d62351525a1d",
+        "code": "BWP",
+        "description": "Botswana pula",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "00d58444-935e-4fc8-9138-83667de7be3a",
+        "code": "BYN",
+        "description": "Belarusian ruble",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "ac0d016b-3dc8-4822-88b2-97e25a100da1",
+        "code": "BZD",
+        "description": "Belize dollar",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "790c6b2e-366f-4471-ba19-352838a31ad0",
+        "code": "CAD",
+        "description": "Canadian dollar",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "757d6556-96d1-4f3e-a2e9-a45fc4e1ce2c",
+        "code": "CDF",
+        "description": "Congolese franc",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "ee730110-ac53-4f57-988c-eab30d277747",
+        "code": "CHF",
+        "description": "Swiss franc",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "f7295d5f-d011-48b5-bddb-3d57016fa990",
+        "code": "CLP",
+        "description": "Chilean peso",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "6e6299ba-893d-4d1e-8469-e4755f42e8eb",
+        "code": "CNY",
+        "description": "Chinese yuan[8]",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "687c80f7-9da0-4d0f-9005-1b80564fbda0",
+        "code": "COP",
+        "description": "Colombian peso",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "07c9d9c2-4fcb-407a-9dab-417342d5ef2e",
+        "code": "CRC",
+        "description": "Costa Rican colon",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "3129c299-5bd7-4519-90bd-272194bff4aa",
+        "code": "CUP",
+        "description": "Cuban peso",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "1a26fa47-6201-4764-8b7d-34083e0aa35e",
+        "code": "CVE",
+        "description": "Cape Verdean escudo",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "8426403e-f5f8-48dc-bd1d-b9727ad9db18",
+        "code": "CZK",
+        "description": "Czech koruna",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "d8b0caba-1f96-4624-9619-33c8c8e01eb4",
+        "code": "DJF",
+        "description": "Djiboutian franc",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "ac6af11d-7923-4430-aaba-e64b91ade283",
+        "code": "DKK",
+        "description": "Danish krone",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "a5184e0b-def2-413a-b256-9e30c98716c8",
+        "code": "DOP",
+        "description": "Dominican peso",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "2e27dc53-f691-4363-817c-6090d3439e03",
+        "code": "DZD",
+        "description": "Algerian dinar",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "355435b2-3315-4f8f-924b-11ffb6e8f39d",
+        "code": "EGP",
+        "description": "Egyptian pound",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "f8a37889-c9dc-4dad-920c-89519a4456d9",
+        "code": "ERN",
+        "description": "Eritrean nakfa",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "b81949ca-3838-4a8c-a335-9ebf92d8ddcf",
+        "code": "ETB",
+        "description": "Ethiopian birr",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "5f806ef7-9800-4380-8387-492f44fefa86",
+        "code": "EUR",
+        "description": "Euro",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "5da51f50-ce13-46b3-82e4-2199bb4e144a",
+        "code": "FJD",
+        "description": "Fiji dollar",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "c48caf6d-67ba-4374-a3ad-4eceae9f08a8",
+        "code": "FKP",
+        "description": "Falkland Islands pound",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "4ffb2826-44a1-487b-932e-f455764d25da",
+        "code": "GBP",
+        "description": "Pound sterling",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "81acd606-daae-4bec-9451-020489f90119",
+        "code": "GEL",
+        "description": "Georgian lari",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "d32f7cd9-0ebe-43e8-a163-3f1ff9bcad9a",
+        "code": "GHS",
+        "description": "Ghanaian cedi",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "017af397-f3a4-4d7f-879e-c1717a755f2d",
+        "code": "GIP",
+        "description": "Gibraltar pound",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "081b9dcf-4c79-4e53-9dfb-cf00a3f3be85",
+        "code": "GMD",
+        "description": "Gambian dalasi",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "38ef57f3-f5f7-4b3c-995b-9019b52d24ea",
+        "code": "GNF",
+        "description": "Guinean franc",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "f62b3139-d893-402b-9ca9-42a54cc7e1a4",
+        "code": "GTQ",
+        "description": "Guatemalan quetzal",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "ac4a03b8-153f-4d30-82e7-4d845ff4156a",
+        "code": "GYD",
+        "description": "Guyanese dollar",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "520cb8d5-4076-46d6-94b8-64aeaf4e4223",
+        "code": "HKD",
+        "description": "Hong Kong dollar",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "568c4b63-a236-4833-af4c-7b92cecadaa1",
+        "code": "HNL",
+        "description": "Honduran lempira",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "cc314b8b-ec7c-4a87-8ab6-72f9254a4918",
+        "code": "HRK",
+        "description": "Croatian kuna",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "3a64937c-d4c0-4cd9-a8e6-3c47a3ebce85",
+        "code": "HTG",
+        "description": "Haitian gourde",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "6ad59729-2b40-4513-977e-6dec6c911eaf",
+        "code": "HUF",
+        "description": "Hungarian forint",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "55c55870-f96b-4d9e-a1d0-c849944ad776",
+        "code": "IDR",
+        "description": "Indonesian rupiah",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "5ed57d52-f86e-446a-b0d4-03cc009af90c",
+        "code": "ILS",
+        "description": "Israeli new shekel",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "4f888cfb-8bde-4c62-8c8c-453f53c7a8b6",
+        "code": "INR",
+        "description": "Indian rupee",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "0f976f89-46a5-46dd-86ce-4b346998c280",
+        "code": "IQD",
+        "description": "Iraqi dinar",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "48a95dc2-c957-4da8-b160-24add70191c0",
+        "code": "IRR",
+        "description": "Iranian rial",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "4e18d185-0221-4562-abda-34af44f678d7",
+        "code": "ISK",
+        "description": "Icelandic króna",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "18c7446c-9547-45da-95a5-1558b9de689f",
+        "code": "JMD",
+        "description": "Jamaican dollar",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "cc1d5b04-de56-484c-88d0-b03a80cc6462",
+        "code": "JOD",
+        "description": "Jordanian dinar",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "406ec504-2f7f-4d66-8deb-e8f274b1b549",
+        "code": "JPY",
+        "description": "Japanese yen",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "cbc81d6a-e873-4bb0-be6c-50686776e9a5",
+        "code": "KES",
+        "description": "Kenyan shilling",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "1b27ff67-1252-4bfa-8db5-f60a36c839da",
+        "code": "KGS",
+        "description": "Kyrgyzstani som",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "510a3f98-0cbf-4f44-ae75-5f2f111439df",
+        "code": "KHR",
+        "description": "Cambodian riel",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "1416f5dd-054f-4d46-b646-1e7a9ab6ef97",
+        "code": "KMF",
+        "description": "Comoro franc",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "1cd3decf-cfd8-4ca8-a551-a69a3b292317",
+        "code": "KPW",
+        "description": "North Korean won",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "184a7ace-dc90-454d-8603-0ad69262ef35",
+        "code": "KRW",
+        "description": "South Korean won",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "13616691-0a91-42bd-bc42-3181713e134b",
+        "code": "KWD",
+        "description": "Kuwaiti dinar",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "c30dd66f-40ec-4688-a0d3-d8af6a48edc7",
+        "code": "KYD",
+        "description": "Cayman Islands dollar",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "dfb13b06-df1a-4968-a8f9-1e8defa72566",
+        "code": "KZT",
+        "description": "Kazakhstani tenge",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "ead10d1d-8831-4397-93d1-1ddafe235350",
+        "code": "LAK",
+        "description": "Lao kip",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "a25a7bd1-408b-4eae-889a-1caa8d694799",
+        "code": "LBP",
+        "description": "Lebanese pound",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "50577770-d320-43ee-80bc-82f5f892b9f1",
+        "code": "LKR",
+        "description": "Sri Lankan rupee",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "f254d965-1628-4b57-8796-72c0d544002f",
+        "code": "LRD",
+        "description": "Liberian dollar",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "8cf5f4b8-ee2e-4679-b2cf-65e170947608",
+        "code": "LSL",
+        "description": "Lesotho loti",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "1fdead37-173f-47bb-b187-38413d78b95f",
+        "code": "LYD",
+        "description": "Libyan dinar",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "b9b78b2f-70bc-4513-bd1d-cad54065d3c7",
+        "code": "MAD",
+        "description": "Moroccan dirham",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "79455093-c400-4370-bbf7-c3968a751201",
+        "code": "MDL",
+        "description": "Moldovan leu",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "b0647749-0c6d-4a40-9248-c042975b585e",
+        "code": "MGA",
+        "description": "Malagasy ariary",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "9b4962e0-37b8-4d68-907e-45407943ba29",
+        "code": "MKD",
+        "description": "Macedonian denar",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "be2e3a43-7ef0-457f-9e9d-77d11ff9cd5a",
+        "code": "MMK",
+        "description": "Myanmar kyat",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "012bdce1-648e-480d-a6f4-b24f2eec1e34",
+        "code": "MNT",
+        "description": "Mongolian tögrög",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "6e8b4b56-e4c1-40cc-b5aa-398261795ac8",
+        "code": "MOP",
+        "description": "Macanese pataca",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "b5074dbf-c241-470b-a8ed-399b47c96b4f",
+        "code": "MRU",
+        "description": "Mauritanian ouguiya",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "206806c4-d263-4ad9-83ae-2a98697eeaf2",
+        "code": "MUR",
+        "description": "Mauritian rupee",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "56a95a9a-c38e-4f71-8299-966d65dd8b1b",
+        "code": "MVR",
+        "description": "Maldivian rufiyaa",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "3c17c8a6-2039-46b4-90cf-713befc3d306",
+        "code": "MWK",
+        "description": "Malawian kwacha",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "e34697ac-29c0-4beb-994c-c2910921c473",
+        "code": "MXN",
+        "description": "Mexican peso",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "ccfa1bed-eef8-445d-8bf0-398538ae5bad",
+        "code": "MYR",
+        "description": "Malaysian ringgit",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "0123c3b5-6174-43b7-a3f0-143caf974411",
+        "code": "MZN",
+        "description": "Mozambican metical",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "2523c298-11a3-4c69-9c26-fa3f974c155b",
+        "code": "NAD",
+        "description": "Namibian dollar",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "1bc97041-22dd-4591-a599-fb2eb94058ce",
+        "code": "NGN",
+        "description": "Nigerian naira",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "b81e1b47-c8f0-4333-85af-15ebd6859753",
+        "code": "NIO",
+        "description": "Nicaraguan córdoba",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "e0a1961d-4394-4f7d-a7d8-b2117f979ffb",
+        "code": "NOK",
+        "description": "Norwegian krone",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "ea22e5bb-1a23-4984-8fa5-7e6ee905a7c4",
+        "code": "NPR",
+        "description": "Nepalese rupee",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "583ee1a3-7138-4811-a6e5-a3d9553337d2",
+        "code": "NZD",
+        "description": "New Zealand dollar",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "d9de460d-9099-4e02-b3d8-25567f85eb33",
+        "code": "OMR",
+        "description": "Omani rial",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "b2ac03c3-3897-473b-bd91-c1114055d256",
+        "code": "PAB",
+        "description": "Panamanian balboa",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "772beaf0-c744-4e87-b885-74676b26e484",
+        "code": "PEN",
+        "description": "Peruvian sol",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "c3632833-22a2-4c76-91e5-a409fdedab17",
+        "code": "PGK",
+        "description": "Papua New Guinean kina",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "0e0e2ef9-d43e-49b5-a84c-a0c9378bc83d",
+        "code": "PHP",
+        "description": "Philippine peso",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "ded05660-a8d3-40df-ae1b-72e0326b2515",
+        "code": "PKR",
+        "description": "Pakistani rupee",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "b2461a70-39e8-4e29-ae2a-3215e7d44e2f",
+        "code": "PLN",
+        "description": "Polish zloty",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "fa7116ee-b03e-4228-94af-f368c67f4528",
+        "code": "PYG",
+        "description": "Paraguayan guaraní",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "db67971b-d22b-4e35-b80c-0eabb9a3429b",
+        "code": "QAR",
+        "description": "Qatari riyal",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "d5c00bfb-e9d8-4099-9622-4367fcd0cc99",
+        "code": "RON",
+        "description": "Romanian leu",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "0fb790b9-2d55-4f66-ba6e-099d2b6500de",
+        "code": "RSD",
+        "description": "Serbian dinar",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "2dab21e1-fe18-4a92-bfc8-84086199ae88",
+        "code": "RUB",
+        "description": "Russian ruble",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "16bb8ea9-bc9b-49c3-ae23-037f67b66b07",
+        "code": "RWF",
+        "description": "Rwandan franc",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "9aed9542-451c-479c-806e-12992879c240",
+        "code": "SAR",
+        "description": "Saudi riyal",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "f9c8948d-b025-44e8-b711-05e16d41b2e3",
+        "code": "SBD",
+        "description": "Solomon Islands dollar",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "273ab6a9-40c8-41b0-a42e-16c5557d0182",
+        "code": "SCR",
+        "description": "Seychelles rupee",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "60f73efb-d8a0-46b5-b6ab-cfbccf5746b1",
+        "code": "SDG",
+        "description": "Sudanese pound",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "83c79c84-485f-435c-a1e5-6417aeb30218",
+        "code": "SEK",
+        "description": "Swedish krona/kronor",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "2da6a40c-a90d-4e56-a667-2b91284f0122",
+        "code": "SGD",
+        "description": "Singapore dollar",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "055cda28-4b40-4d60-abd1-1c497d8c5e44",
+        "code": "SHP",
+        "description": "Saint Helena pound",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "adc2be81-bff8-4eb8-9444-634603bf03a5",
+        "code": "SLL",
+        "description": "Sierra Leonean leone",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "11d45fdf-0389-4123-94c4-8e9f9a9bb806",
+        "code": "SOS",
+        "description": "Somali shilling",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "0e496d0f-4296-411d-b8f4-9176ff9c12a3",
+        "code": "SRD",
+        "description": "Surinamese dollar",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "fe745f60-ad42-422b-8540-c31d0de39935",
+        "code": "SSP",
+        "description": "South Sudanese pound",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "63bd52a6-65b7-4b4d-a399-20896624cfea",
+        "code": "STN",
+        "description": "São Tomé and Príncipe dobra",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "0aae5aa5-251d-4118-911b-5a1127c0122e",
+        "code": "SVC",
+        "description": "Salvadoran colón",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "38c1ee71-d036-4e5e-8019-c531f2bc2696",
+        "code": "SYP",
+        "description": "Syrian pound",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "7bc1dc23-0902-4298-ba00-f826ee2bab8e",
+        "code": "SZL",
+        "description": "Swazi lilangeni",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "eee5d35b-d1d3-4cf0-94ed-34fa25de8819",
+        "code": "THB",
+        "description": "Thai baht",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "f8707db8-9877-47b9-b8d6-87589e7b6e74",
+        "code": "TJS",
+        "description": "Tajikistani somoni",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "8c6ed24e-0a17-475b-8c08-6cf19fe59840",
+        "code": "TMT",
+        "description": "Turkmenistan manat",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "5a3717cf-fe22-45a2-97ae-5e33e3ac2515",
+        "code": "TND",
+        "description": "Tunisian dinar",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "04d79aa6-8a56-49c8-9f6c-374689a3077d",
+        "code": "TOP",
+        "description": "Tongan pa?anga",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "c8634f5e-4b86-441e-b8c2-7af113c2d92c",
+        "code": "TRY",
+        "description": "Turkish lira",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "67c83775-9a15-49ab-b20b-3deac04b42f0",
+        "code": "TTD",
+        "description": "Trinidad and Tobago dollar",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "cdeed0ae-b52a-4138-bfaf-f30536ea351b",
+        "code": "TWD",
+        "description": "New Taiwan dollar",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "3d3ae12b-2dca-4216-a3d7-939e8e42d153",
+        "code": "TZS",
+        "description": "Tanzanian shilling",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "0f08ef03-090b-4bdf-baa1-ac639863abc7",
+        "code": "UAH",
+        "description": "Ukrainian hryvnia",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "cfc15b9c-da4d-4258-901a-b448cdea8b1e",
+        "code": "UGX",
+        "description": "Ugandan shilling",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "2a252ebb-6639-40eb-a6d3-31b7568110da",
+        "code": "USD",
+        "description": "United States dollar",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "5835a99a-4077-4934-9a42-69055bc2858e",
+        "code": "UYU",
+        "description": "Uruguayan peso",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "0433a889-7aaa-4d09-900d-7979236a88d6",
+        "code": "UZS",
+        "description": "Uzbekistan som",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "0d26bbf7-7717-4346-aa2c-ce2327a634ac",
+        "code": "VES",
+        "description": "Venezuelan bolívar soberano",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "a1c12e96-aad1-4328-aab2-394bbbc81ad9",
+        "code": "VND",
+        "description": "Vietnamese d?ng",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "93c3016a-5be5-4602-a6df-a07117589f99",
+        "code": "VUV",
+        "description": "Vanuatu vatu",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "cb30b39b-4567-4f93-9963-50ccd414ed45",
+        "code": "WST",
+        "description": "Samoan tala",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "ec1183c8-8d61-4227-a565-2a98e3589664",
+        "code": "XAF",
+        "description": "CFA franc BEAC",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "dc8a556c-687b-4eb2-a321-68be2ec897e6",
+        "code": "XCD",
+        "description": "East Caribbean dollar",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "b867d349-9b8c-4302-8417-cd08b2c663b5",
+        "code": "XOF",
+        "description": "CFA franc BCEAO",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "a7cadb99-9059-4d6d-95ff-04a51519e217",
+        "code": "XPF",
+        "description": "CFP franc (NEWID(),franc Pacifique)",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "7cd9f0f0-341d-43a2-bd51-3481f038573d",
+        "code": "YER",
+        "description": "Yemeni rial",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "326d6ca4-4ed2-4080-af8b-c411b628fc87",
+        "code": "ZAR",
+        "description": "South African rand",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "025ec7f6-6b27-4c76-9f2b-ffc9a6896c7a",
+        "code": "ZMW",
+        "description": "Zambian kwacha",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      },
+      {
+        "id": "4f798e65-48a6-42cd-ab8f-e7effc59d50a",
+        "code": "ZWL",
+        "description": "Zimbabwean dollar",
+        "createdDate": "05/28/2021 10:47:47",
+        "createdBy": "system",
+        "updatedDate": null,
+        "updatedBy": null,
+        "isActive": true
+      }
+    ]
+  }
+}
