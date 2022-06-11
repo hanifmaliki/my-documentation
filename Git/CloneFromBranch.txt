@@ -1,0 +1,2 @@
+Clone from branch
+git clone -b <branchname> <remote-repo-url>
